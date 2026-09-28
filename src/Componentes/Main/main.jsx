@@ -6,11 +6,12 @@ function Main(){
             <section className='hero'>
                 <h1>Criamos sites que funcionam</h1>
                 <p>layouts responsivos, rápidos a acessiveis para o seu negócio crescer</p>
+                
 
                 <div className='hero-button'>
-                    <a href="#orcamento" className='btn-primary'>Peça um orçamento</a>
+                    <a href="#oramento" className='btn-primary'>Peça um orçamento</a>
                     <a href="#portfolio" className='btn-secondary'>Ver portfólio</a>
-                </div>
+                </div>  
 
             </section>
             <section className='serviços'>
