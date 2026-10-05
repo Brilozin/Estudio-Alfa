@@ -1,13 +1,16 @@
-import Header from "./Componentes/Header/Header";
-import Main from "./Componentes/Main/main";
+import Header from "./components/Header/Header"
+import Main from "./components/Main/Main"
+import Footer from "./components/Footer/Footer"
 
-function App() {
-  return (
-    <div className="pagina">
+
+function App(){
+  return(
+    <>
       <Header/>
       <Main/>
-    </div>
-  );
+      <Footer/>
+    </>
+  )
 }
 
-export default App;
+export default App
